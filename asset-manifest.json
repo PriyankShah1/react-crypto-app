@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/react-crypto-app/static/js/main.fd288679.js",
+    "static/media/btc.png": "/react-crypto-app/static/media/btc.04101b0b163c035fa57e.png",
+    "static/media/pX.jpg": "/react-crypto-app/static/media/pX.9b06dd17090d6ccde18f.jpg",
+    "index.html": "/react-crypto-app/index.html",
+    "main.fd288679.js.map": "/react-crypto-app/static/js/main.fd288679.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.fd288679.js"
+  ]
+}
